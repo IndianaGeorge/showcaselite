@@ -6,6 +6,7 @@ A lightweight, single-file template for creating offline viewable slides, with n
 - We may have a Mac. Or linux. Or windows. Not sure.
 - We may be underground, and there's no wired network either.
 - Screen resolution might be unexpected.
+- Single file makes it difficult to misuse
 - Browser works.
 
 # How?
