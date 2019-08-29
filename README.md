@@ -1,5 +1,6 @@
 # Showcase Lite
 A lightweight, single-file template for creating offline viewable slides, with no external dependencies.
+- [Try an example!](https://indianageorge.github.io/showcaselite/index.html)
 
 # Why?
 - No time to fiddle, need slides quick.
